@@ -1,0 +1,34 @@
+*{
+    font-size: 1.2rem;
+}
+
+Body {
+  background-color: #f0fff0;
+  font-family: Calibri;
+  font-size: 2rem;
+}
+
+h1 {
+  font-weight: bold;
+  color: #4682b4;
+  text-align: center;
+  font-size: 2rem;
+}
+
+table {
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  background-color: #696969;
+  border-collapse: collapse;
+  border: 2px solid navy;
+  margin: 0 auto;
+}
+
+#submit{
+    margin: 0 auto;
+}
+
+.text{
+    width: 98%;
+}
